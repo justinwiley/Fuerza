@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Fuerza::Application.config.secret_token = '64844786c4c086cb9495d3af000d521d4ffcfd6b6636875b965959c38bde9f02e70a7bfa70aee39549cc21bd046c72e36a8daedea006c16f5e324914888b48ee'
+Fuerza::Application.config.secret_token = 'c3630613ec943ce5cff5503c2461229faa1d6e9b5d9907b75536e608af219c56f890d70ff1bcc942f5fc68f9bcb29e3181e419d47db4d954a532d974bba44c10'
